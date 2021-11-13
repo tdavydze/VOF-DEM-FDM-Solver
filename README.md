@@ -1,4 +1,4 @@
-# VOF-IBM-Solver
+# VOF-FDM-Solver
 Coupling Volume of Fluid (VOF) with Discrete Element Method (DEM) using Fictitious Domain Method (FDM). 
 Resolved methodology.
 
