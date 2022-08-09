@@ -1,4 +1,4 @@
-# VOF-DEM-FDM-Solver
+# VOF-DEM-FDM Solver
 Coupling Volume of Fluid (VOF) with Discrete Element Method (DEM) using Fictitious Domain Method (FDM). 
 The code is suited for resolved methodologies, where fluid cells are smaller than particles. The code is implemented in the following paper:
 https://aip.scitation.org/doi/10.1063/5.0018455
