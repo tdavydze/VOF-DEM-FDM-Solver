@@ -1,6 +1,0 @@
-/home/anu/OpenFOAM/OpenFOAM-5.x/src/OpenFOAM/lnInclude
-/home/anu/OpenFOAM/OpenFOAM-5.x/src/finiteVolume/lnInclude
-/home/anu/OpenFOAM/OpenFOAM-5.x/src/dynamicMesh/dynamicFvMesh/lnInclude
-/home/anu/OpenFOAM/OpenFOAM-5.x/src/transportModels/incompressible/lnInclude
-/home/anu/CFDEM/CFDEMcoupling-PUBLIC-5.x/src/lagrangian/cfdemParticle/derived/cfdemCloudIB
-
